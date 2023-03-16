@@ -11,6 +11,7 @@ import cinema from './cinema.png';
 import mobileui from './mobileui.png';
 import shop from './shop.png';
 import mike from './logo.png';
+import CV from './cv.pdf'
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -38,6 +39,7 @@ import tripguide from "./tripguide.png";
 
 export {
   logo,
+  CV,
   mike,
   herobg,
   backend,

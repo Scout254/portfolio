@@ -7,9 +7,9 @@ const Navbar = () => {
       <img src={mike} alt="" className='h-12 w12' />
       </div>
       <div className='mr-4 flex gap-6'>
-        <a href="#about" className='text-2xl'>About</a>
-        <a href="#projects" className='text-2xl'>Projects</a>
-        <a href="#contacts" className='text-2xl'>Contacts</a>
+        <a href="#about" className='text-2xl font-serif'>About</a>
+        <a href="#projects" className='text-2xl font-serif'>Projects</a>
+        <a href="#contacts" className='text-2xl font-serif'>Contacts</a>
       </div>
     </div>
   )

@@ -3,7 +3,7 @@ import { services } from '../constants'
 const About = () => {
   return (
     <div id='about' className=''>
-      <h1 className='font-bold text-4xl ml-24 py-4'>About</h1>
+      <h1 className='font-bold text-4xl ml-24 py-4 font-serif'>About</h1>
     <div className='flex justify-between'>
        <div className='ml-24 flex flex-col gap-4 '>
        
